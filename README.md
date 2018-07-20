@@ -11,3 +11,7 @@
 ## Yet Another Mission Report
 
 - [Chapter 1](https://steemit.com/writing/@narwhalz0111/yamr-chapter-1-a-kerbal-space-program-tale)
+
+## Kerbae ad Astra Worldbuilding Supplements
+
+- [Faster-than-Light Travel](https://steemit.com/fiction/@narwhalz0111/a-primer-on-faster-than-light-travel-a-kerbae-ad-astra-worldbuilding-supplement)
